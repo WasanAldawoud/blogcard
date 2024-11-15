@@ -75,14 +75,14 @@ div img{
     }
 
     section h1 {
-        font-size: 125%; /* Adjust font size for smaller screens */
+        font-size: 125%; 
     }
 
     section p {
-        font-size: 100%; /* Adjust paragraph font size */
+        font-size: 100%; 
     }
 
     section button {
-        font-size: 14px; /* Smaller button font size */
+        font-size: 14px; 
     }
 }
